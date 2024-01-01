@@ -18,4 +18,6 @@ public class HelloServlet extends HttpServlet{
 		System.out.println("destroy method inside HelloServlet");
 	}
 	System.out.pritln(" Prayag is trying to modify file2 Hello from local repo "); 
+	System.out.println(" ********************** ");
+	System.out.pritnln(" Prayag2 has done changes from local repo after developer1 ");
 }
